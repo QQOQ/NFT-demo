@@ -3,7 +3,7 @@
 > 目前市场上最好的数字藏品系统，已有十几家平台使用，用户量超过百万，安全性得到有效验证。联系交流：qq:236056471
 
 ## 界面截图
-<img src="./screenshot/demo.jpeg" width="350px">
+<img src="./screenshot/demo.jpeg">
 
 
 ## NFT数字艺术藏品安装说明
